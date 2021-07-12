@@ -105,8 +105,8 @@ webpmux -version
 ```
 
 ## Donate
-- [Saweria](https://saweria.co/aqulzz)
-- [Trakteer](https://trakteer.id/aqulzz)
+- [Saweria](https://saweria.co/Azkafr01)
+- [Trakteer](https://trakteer.id/)
 
 # Features
 - Cek [disini](https://github.com/Xinz-Team/XinzBot/blob/main/message/help.js)
